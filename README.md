@@ -205,7 +205,7 @@ ocelotgui [--option [--option...]]
 For a description of options see  <A href="#Appendix-1">Appendix 1 Details about ocelotgui options</A>.
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/starting-dialog.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/starting-dialog.png" alt="starting-dialog.png" align="right" height="128"></A>
+<A href="starting-dialog.png"><img src="starting-dialog.png" alt="starting-dialog.png" align="right" height="128"></A>
 If a password is required but not supplied, a dialog box will appear.
 Or, if the initial attempt to connect fails, an error message will appear
 saying it is necessary to choose File|Connect, which will cause the dialog
