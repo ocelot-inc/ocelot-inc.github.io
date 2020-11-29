@@ -12,7 +12,7 @@ with multi-line rows and resizable columns.</P>
 <P>Copyright (c) 2014-2020, Ocelot Computer Services Inc.
 All rights reserved.</P>
 
-<P>For the GPL license terms see <A href="https://github.com/ocelot-inc/ocelotgui/blob/master/LICENSE.GPL">https://github.com/ocelot-inc/ocelotgui/blob/master/LICENSE.GPL</A>.</P>
+<P>For the GPL license terms see <A href="LICENSE.GPL">LICENSE.GPL</A>.</P>
 
 <P>This README file has installation instructions, screenshots, and a user manual which has been stripped so it only shows what is relevant for Tarantool.</P>
 
@@ -118,17 +118,17 @@ Stop again with File|Exit or control-Q.
 
 <H2 ID="some-screenshots">Some screenshots</H2><HR>
 
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot1.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot1.jpg" alt="shot1.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot2.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot2.jpg" alt="shot2.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot3.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot3.png" alt="shot3.png" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot4.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot4.jpg" alt="shot4.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot5.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot5.jpg" alt="shot5.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot6.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot6.jpg" alt="shot6.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot7.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot7.jpg" alt="shot7.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot8.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot8.jpg" alt="shot8.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot9.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot9.jpg" alt="shot9.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot10.jpg"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot10.jpg" alt="shot10.jpg" height="150"></A>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/shot11.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/shot11.png" alt="shot11.png" height="150"></A>
+<A href="shot1.jpg"><img src="shot1.jpg" alt="shot1.jpg" height="150"></A>
+<A href="shot2.jpg"><img src="shot2.jpg" alt="shot2.jpg" height="150"></A>
+<A href="shot3.png"><img src="shot3.png" alt="shot3.png" height="150"></A>
+<A href="shot4.jpg"><img src="shot4.jpg" alt="shot4.jpg" height="150"></A>
+<A href="shot5.jpg"><img src="shot5.jpg" alt="shot5.jpg" height="150"></A>
+<A href="shot6.jpg"><img src="shot6.jpg" alt="shot6.jpg" height="150"></A>
+<A href="shot7.jpg"><img src="shot7.jpg" alt="shot7.jpg" height="150"></A>
+<A href="shot8.jpg"><img src="shot8.jpg" alt="shot8.jpg" height="150"></A>
+<A href="shot9.jpg"><img src="shot9.jpg" alt="shot9.jpg" height="150"></A>
+<A href="shot10.jpg"><img src="shot10.jpg" alt="shot10.jpg" height="150"></A>
+<A href="shot11.png"><img src="shot11.png" alt="shot11.png" height="150"></A>
 
 <H2 ID="user-manual">User Manual</H2><HR><HR>
 
@@ -218,7 +218,7 @@ but only non-DBMS tasks such as screen customizing will be possible.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/starting.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/starting.png" alt="starting.png" align="right" height="256"></A>
+<A href="starting.png"><img src="starting.png" alt="starting.png" align="right" height="256"></A>
 In any case, an initial screen will appear. After some activity has
 taken place, the screen will have four parts, from top to bottom:<BR>
 menu <BR>
@@ -253,7 +253,7 @@ but this can be changed, see the later description of
 Client Statements: Prompt.  
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/statement-widget-example.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/statement-widget-example-tarantool.png" alt="statement-widget-example-tarantool.png" align="right" height="82"></A>
+<A href="statement-widget-example.png"><img src="statement-widget-example-tarantool.png" alt="statement-widget-example-tarantool.png" align="right" height="82"></A>
 For example, this screenshot shows the statement widget
 after the user has changed the default prompt and
 entered an SQL statement.
@@ -351,7 +351,7 @@ been cleared, the result widget has the rows.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/result-widget-example-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/result-widget-example-tarantool.png" alt="result-widget-example-tarantool.png" height="460"></A>
+<A href="result-widget-example-tarantool.png"><img src="result-widget-example-tarantool.png" alt="result-widget-example-tarantool.png" height="460"></A>
 <BR clear="all">
 </P>
 <P>
@@ -367,13 +367,13 @@ the result set would not be tabular when selecting from a Lua space.
 Options, Debug and Help.</P>
 
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-file.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-file.png" alt="menu-file.png" align="right" height="48"></A>
+<A href="menu-file.png"><img src="menu-file.png" alt="menu-file.png" align="right" height="48"></A>
 File|Connect, or Ctrl+O, starts the Connect dialog box.  
 File|Exit, or Ctrl+Q, stops the program.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-edit-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-edit-tarantool.png" alt="menu-edit-tarantool.png" align="right" height="192"></A>
+<A href="menu-edit-tarantool.png"><img src="menu-edit-tarantool.png" alt="menu-edit-tarantool.png" align="right" height="192"></A>
 Edit|Undo or Ctrl+Z, Edit|Redo or Ctrl+Shift+Z, Edit|Cut or Ctrl+X,
 Edit|Cut or Ctrl+X, Edit|Copy or Ctrl+C, Edit|Paste or Ctrl+V,
 and Edit|Select or Ctrl+A, all work in the conventional manner.
@@ -387,7 +387,7 @@ be discussed later.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-run.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-run.png" alt="menu-run.png" align="right" height="48"></A>
+<A href="menu-run.png"><img src="menu-run.png" alt="menu-run.png" align="right" height="48"></A>
 Run|Execute or Ctrl+E or Ctrl+Enter causes execution of whatever is in the
 statement widget.  
 Run|Kill or Ctrl+C tries to stop execution -- this
@@ -395,7 +395,7 @@ menu item is disabled for Tarantool.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-settings.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-settings.png" alt="menu-settings.png" align="right" height="120"></A>
+<A href="menu-settings.png"><img src="menu-settings.png" alt="menu-settings.png" align="right" height="120"></A>
 Settings|Menu, Settings|History Widget, Settings|Grid Widget,
 Settings|Statement, and Settings|Extra Rule 1 are
 items which affect the behavior of each
@@ -414,7 +414,7 @@ set Grid Background Color Pink, set Condition = data_type LIKE
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-options.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-options.png" alt="menu-options.png" align="right" height="72"></A>
+<A href="menu-options.png"><img src="menu-options.png" alt="menu-options.png" align="right" height="72"></A>
 Options|detach history widget,
 Options|detach result grid widget,
 Options|detach debug widget are
@@ -427,13 +427,13 @@ and clicking it will put the widget back in its original position.
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-debug.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-debug.png" alt="menu-debug.png" align="right" height="132"></A>
+<A href="menu-debug.png"><img src="menu-debug.png" alt="menu-debug.png" align="right" height="132"></A>
 The items on the Debug menu are disabled for Tarantool.
 <BR clear="all">
 </P>
   
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-help.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/menu-help.png" alt="menu-help.png" align="right" height="96"></A>
+<A href="menu-help.png"><img src="menu-help.png" alt="menu-help.png" align="right" height="96"></A>
 Help|About will show the license and copyright and version.
 Help|The Manual will show the contents of README.md (not the manual that you are reading) if README.md is on the same path as
 the ocelotgui program; otherwise it will show a copyright, a GPL license, and a pointer to README.md.
@@ -446,7 +446,7 @@ Help|settings will advise about how to use the Settings menu items.
 <H3 id="special-effects">Special Effects</H3><HR>
 
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/special-vertical-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/special-vertical-tarantool.png" alt="special-vertical-tarantool.png" align="right" height="256"></A>
+<A href="special-vertical-tarantool.png"><img src="special-vertical-tarantool.png" alt="special-vertical-tarantool.png" align="right" height="256"></A>
 Vertical: If a user starts ocelotgui with the additional option --vertical=1,
 results come up with one column per row.
 (There are other options for displaying as html, raw, etc.).
@@ -454,7 +454,7 @@ results come up with one column per row.
 </P>
   
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/special-images.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/special-images.png" alt="special-images.png" align="right" height="256"></A>
+<A href="special-images.png"><img src="special-images.png" alt="special-images.png" align="right" height="256"></A>
 Images: If a user chooses Settings | Extra Rule 1 from the menu,
 and sets the Condition and Display As boxes as described earlier,
 and selects rows which contain VARBINARY columns, and the column values are
@@ -472,14 +472,14 @@ statement widget will show UPDATE t SET column2 = 'AB' WHERE column1 = 5 AND col
 The user then has the choice of ignoring the update statement or executing it.  
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/special-detach.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/special-detach.png" alt="special-detach.png" align="right" height="256"></A>
+<A href="special-detach.png"><img src="special-detach.png" alt="special-detach.png" align="right" height="256"></A>
 Detaching: If a user chooses Options | detach history widget or
 Options | detach result grid widget, then the widget will become a separate window
 which can be moved or resized.  
 <BR clear="all">
 </P>
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/special-settings.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/special-settings.png" alt="special-settings.png" align="right" height="512"></A>
+<A href="special-settings.png"><img src="special-settings.png" alt="special-settings.png" align="right" height="512"></A>
 Colors: The Colors and fonts dialog boxes have a simple way to choose
 colors, by selecting from a choice of 148 color names / color icons. Users can also
 change colors by saying SET object_name_color = color-name | hex-rgb-value.  
@@ -498,9 +498,9 @@ Users can use arrow keys to select other words,
 and can use "set ocelot_shortcut_autocomplete='...'; to choose a different key instead of the Tab key,
 and can use "set ocelot_completer_timeout=...'; to choose how many many seconds the list will be visible,
 and can use "rehash;" to update the list.<br>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_1-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_1-tarantool.png" alt="completer_1-tarantool.png" height="128" width="256"></A><br>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_2-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_2-tarantool.png" alt="completer_2-tarantool.png" height="128" width="256"></A><br>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_3-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/completer_3-tarantool.png" alt="completer_3-tarantool.png" height="128" width="256"></A>
+<A href="completer_1-tarantool.png"><img src="completer_1-tarantool.png" alt="completer_1-tarantool.png" height="128" width="256"></A><br>
+<A href="completer_2-tarantool.png"><img src="completer_2-tarantool.png" alt="completer_2-tarantool.png" height="128" width="256"></A><br>
+<A href="completer_3-tarantool.png"><img src="completer_3-tarantool.png" alt="completer_3-tarantool.png" height="128" width="256"></A>
 </P>
 
 <P>RE: HINTING FOR COLUMN NAMES. Although hints for syntax appear by
@@ -534,7 +534,7 @@ as the ocelotgui client, it is sometimes a good idea to enter
 '127.0.0.1' in the host field, instead of 'localhost'.</P>
 
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/hover-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/hover-tarantool.png" alt="hover-tarantool.png" align="right" height="128" width="256"></A>
+<A href="hover-tarantool.png"><img src="hover-tarantool.png" alt="hover-tarantool.png" align="right" height="128" width="256"></A>
 RE: HOVERING. Use the mouse to hover over a word in the
 statement widget, and Ocelot will display what kind of word
 it is, for example "table identifier".
@@ -548,7 +548,7 @@ This goes a small part of the way to the options of the
 </P>
 
 <P>
-<A href="https://github.com/ocelot-inc/ocelotgui/blob/master/max_row_count-tarantool.png"><img src="https://github.com/ocelot-inc/ocelotgui/blob/master/max_row_count-tarantool.png" alt="max_row_count-tarantool.png" align="right" height="128" width="256"></A>
+<A href="max_row_count-tarantool.png"><img src="max_row_count-tarantool.png" alt="max_row_count-tarantool.png" align="right" height="128" width="256"></A>
 RE: HISTORY. By default the history does not contain any rows
 from result sets of previous statements. To change this, click
 Settings|History and enter a number for Max Row Count.
@@ -1335,7 +1335,7 @@ We believe that on some other Windows platforms it won't start.</P>
 <P>
 How to get it:<br>
 * Download the ocelotgui zip file from github.
-  Check https://github.com/ocelot-inc/ocelotgui/blob/master/README.md
+  Check README.md
   to see where the latest release is. For example it might be
   https://github.com/ocelot-inc/ocelotgui/releases/download/1.2.0/ocelotgui-1.2.0-1.ocelotgui.zip<br>
 * Unzip. It was zipped with 7-zip from http://www.7-zip.org,
